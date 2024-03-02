@@ -5,13 +5,13 @@ assignees:
   - oliverilp
 sites:
   - name: Nextcloud
-    url: https://cloud.oliverilp.ee
+    url: https://cloud.oliverilp.ee/
   - name: Memos
-    url: https://memos.oliverilp.ee
+    url: https://memos.oliverilp.ee/
   - name: Jellyfin
-    url: https://crunchyroll.ee
+    url: https://crunchyroll.ee/
   - name: Komga
-    url: https://manga.crunchyroll.ee
+    url: https://manga.crunchyroll.ee/
 
 status-website:
   cname: status.oliverilp.ee
