@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.oliverilp.ee.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.65%",
+    "uptimeDay": "70.77%",
+    "uptimeWeek": "95.82%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "98.65%",
     "time": 970,
-    "timeDay": 963,
-    "timeWeek": 1057,
+    "timeDay": 0,
+    "timeWeek": 1070,
     "timeMonth": 970,
     "timeYear": 970,
     "dailyMinutesDown": {
-      "2024-03-19": 0
+      "2024-03-20": 39,
+      "2024-03-19": 382
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 675,
-    "timeDay": 656,
-    "timeWeek": 612,
-    "timeMonth": 675,
-    "timeYear": 675,
+    "time": 674,
+    "timeDay": 652,
+    "timeWeek": 614,
+    "timeMonth": 674,
+    "timeYear": 674,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 806,
-    "timeDay": 782,
-    "timeWeek": 759,
-    "timeMonth": 806,
-    "timeYear": 806,
+    "time": 797,
+    "timeDay": 593,
+    "timeWeek": 731,
+    "timeMonth": 797,
+    "timeYear": 797,
     "dailyMinutesDown": {}
   },
   {
@@ -67,8 +68,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 641,
-    "timeDay": 552,
-    "timeWeek": 573,
+    "timeDay": 653,
+    "timeWeek": 594,
     "timeMonth": 641,
     "timeYear": 641,
     "dailyMinutesDown": {}
