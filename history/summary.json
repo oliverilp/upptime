@@ -44,19 +44,19 @@
     "url": "https://crunchyroll.ee/",
     "icon": "https://icons.duckduckgo.com/ip3/crunchyroll.ee.ico",
     "slug": "jellyfin",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "85.93%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.87%",
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "83.38%",
+    "uptimeWeek": "97.63%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.85%",
     "time": 970,
-    "timeDay": 2279,
-    "timeWeek": 1350,
-    "timeMonth": 1049,
+    "timeDay": 2016,
+    "timeWeek": 1315,
+    "timeMonth": 1047,
     "timeYear": 970,
     "dailyMinutesDown": {
-      "2024-06-15": 202
+      "2024-06-15": 239
     }
   },
   {
