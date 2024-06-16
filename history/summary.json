@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.oliverilp.ee.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "85.91%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.72%",
+    "uptimeDay": "69.37%",
+    "uptimeWeek": "95.62%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "99.72%",
     "time": 1269,
-    "timeDay": 2056,
-    "timeWeek": 1315,
-    "timeMonth": 1138,
+    "timeDay": 2658,
+    "timeWeek": 1379,
+    "timeMonth": 1150,
     "timeYear": 1269,
     "dailyMinutesDown": {
-      "2024-06-15": 203
+      "2024-06-16": 48,
+      "2024-06-15": 393
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "97.99%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.87%",
-    "time": 820,
-    "timeDay": 1829,
-    "timeWeek": 1022,
-    "timeMonth": 824,
-    "timeYear": 820,
+    "time": 819,
+    "timeDay": 1886,
+    "timeWeek": 1049,
+    "timeMonth": 828,
+    "timeYear": 819,
     "dailyMinutesDown": {
       "2024-06-15": 203
     }
@@ -50,11 +51,11 @@
     "uptimeWeek": "97.63%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.85%",
-    "time": 970,
-    "timeDay": 2016,
-    "timeWeek": 1315,
-    "timeMonth": 1047,
-    "timeYear": 970,
+    "time": 971,
+    "timeDay": 2105,
+    "timeWeek": 1350,
+    "timeMonth": 1054,
+    "timeYear": 971,
     "dailyMinutesDown": {
       "2024-06-15": 239
     }
@@ -65,15 +66,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/manga.crunchyroll.ee.ico",
     "slug": "komga",
     "status": "up",
-    "uptime": "97.13%",
+    "uptime": "97.14%",
     "uptimeDay": "85.95%",
     "uptimeWeek": "97.99%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "97.13%",
+    "uptimeYear": "97.14%",
     "time": 809,
-    "timeDay": 1939,
-    "timeWeek": 1093,
-    "timeMonth": 885,
+    "timeDay": 1854,
+    "timeWeek": 1116,
+    "timeMonth": 890,
     "timeYear": 809,
     "dailyMinutesDown": {
       "2024-06-15": 202,
