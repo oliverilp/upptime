@@ -6,9 +6,9 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "44.74%",
-    "uptimeWeek": "92.11%",
-    "uptimeMonth": "98.18%",
+    "uptimeDay": "45.46%",
+    "uptimeWeek": "92.21%",
+    "uptimeMonth": "98.21%",
     "uptimeYear": "99.50%",
     "time": 1247,
     "timeDay": 1264,
@@ -16,7 +16,7 @@
     "timeMonth": 1093,
     "timeYear": 1247,
     "dailyMinutesDown": {
-      "2024-06-16": 402,
+      "2024-06-16": 392,
       "2024-06-15": 393
     }
   },
@@ -25,19 +25,18 @@
     "url": "https://memos.oliverilp.ee/",
     "icon": "https://icons.duckduckgo.com/ip3/memos.oliverilp.ee.ico",
     "slug": "memos",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "85.92%",
+    "uptimeDay": "85.93%",
     "uptimeWeek": "97.99%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.87%",
-    "time": 817,
-    "timeDay": 1553,
-    "timeWeek": 999,
-    "timeMonth": 821,
-    "timeYear": 817,
+    "time": 816,
+    "timeDay": 1384,
+    "timeWeek": 973,
+    "timeMonth": 818,
+    "timeYear": 816,
     "dailyMinutesDown": {
-      "2024-06-16": 0,
       "2024-06-15": 203
     }
   },
