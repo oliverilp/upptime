@@ -1,7 +1,7 @@
 url: https://manga.crunchyroll.ee/
-status: up
-code: 200
-responseTime: 1340
-lastUpdated: 2024-07-11T09:50:10.750Z
+status: down
+code: 502
+responseTime: 3840
+lastUpdated: 2024-07-11T10:45:54.061Z
 startTime: 2024-02-27T08:24:20.763Z
 generator: Upptime <https://github.com/upptime/upptime>
