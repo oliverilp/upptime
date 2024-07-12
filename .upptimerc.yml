@@ -10,8 +10,6 @@ sites:
     url: https://memos.oliverilp.ee/
   - name: Jellyfin
     url: https://crunchyroll.ee/
-  - name: Komga
-    url: https://manga.crunchyroll.ee/
 
 status-website:
   cname: status.oliverilp.ee
