@@ -1,7 +1,7 @@
 url: https://cloud.oliverilp.ee/
-status: up
-code: 200
-responseTime: 1131
-lastUpdated: 2024-08-31T23:09:45.009Z
+status: down
+code: 502
+responseTime: 3867
+lastUpdated: 2024-09-01T19:49:05.632Z
 startTime: 2024-02-27T08:24:16.666Z
 generator: Upptime <https://github.com/upptime/upptime>
