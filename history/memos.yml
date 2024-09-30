@@ -1,7 +1,7 @@
 url: https://memos.oliverilp.ee/
-status: up
-code: 200
-responseTime: 512
-lastUpdated: 2024-09-29T23:10:03.219Z
+status: down
+code: 502
+responseTime: 3793
+lastUpdated: 2024-09-30T03:18:18.951Z
 startTime: 2024-02-27T08:24:18.184Z
 generator: Upptime <https://github.com/upptime/upptime>
