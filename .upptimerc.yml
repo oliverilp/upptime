@@ -4,8 +4,8 @@ repo: upptime
 assignees:
   - oliverilp
 sites:
-  - name: Nextcloud
-    url: https://cloud.oliverilp.ee/
+#  - name: Nextcloud
+#    url: https://cloud.oliverilp.ee/
   - name: Memos
     url: https://memos.oliverilp.ee/
   - name: Jellyfin
