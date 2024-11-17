@@ -10,6 +10,8 @@ sites:
     url: https://memos.oliverilp.ee/
   - name: Jellyfin
     url: https://crunchyroll.ee/
+  - name: Photos
+    url: https://photos.oliverilp.ee/
 
 status-website:
   cname: status.oliverilp.ee
