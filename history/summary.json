@@ -10,11 +10,11 @@
     "uptimeWeek": "97.99%",
     "uptimeMonth": "93.45%",
     "uptimeYear": "96.63%",
-    "time": 1164,
-    "timeDay": 652,
-    "timeWeek": 1265,
-    "timeMonth": 1078,
-    "timeYear": 1164,
+    "time": 1162,
+    "timeDay": 595,
+    "timeWeek": 1194,
+    "timeMonth": 1064,
+    "timeYear": 1162,
     "dailyMinutesDown": {
       "2024-11-11": 203,
       "2024-11-05": 1246,
@@ -66,11 +66,11 @@
     "uptimeWeek": "97.99%",
     "uptimeMonth": "93.42%",
     "uptimeYear": "96.58%",
-    "time": 1225,
-    "timeDay": 791,
-    "timeWeek": 1196,
-    "timeMonth": 1112,
-    "timeYear": 1225,
+    "time": 1224,
+    "timeDay": 821,
+    "timeWeek": 1167,
+    "timeMonth": 1106,
+    "timeYear": 1224,
     "dailyMinutesDown": {
       "2024-11-11": 203,
       "2024-11-05": 1246,
@@ -112,5 +112,23 @@
       "2024-06-17": 161,
       "2024-06-15": 239
     }
+  },
+  {
+    "name": "Photos",
+    "url": "https://photos.oliverilp.ee/",
+    "icon": "https://icons.duckduckgo.com/ip3/photos.oliverilp.ee.ico",
+    "slug": "photos",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 620,
+    "timeDay": 620,
+    "timeWeek": 620,
+    "timeMonth": 620,
+    "timeYear": 620,
+    "dailyMinutesDown": {}
   }
 ]
